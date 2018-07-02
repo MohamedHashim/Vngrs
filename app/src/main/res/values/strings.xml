@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VNGRS task</string>
+    <string name="vngrs_details">VNGRS Details</string>
+    <string name="tweet_fetching_error">Sorry! There was an error searching for tweets.</string>
+    <string name="search_in_twitter">Search in Twitter</string>
+</resources>
